@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+/* 经典布局比例: width: 1080px; height: 608px; */
+.wrap {
+  width: 1080px;
+  height: 608px;
+  margin: 200px auto;
+  border: 1px solid #000;
+}
